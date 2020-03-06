@@ -1,0 +1,2 @@
+# whaleforarch
+for whale AUR
